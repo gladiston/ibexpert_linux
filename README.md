@@ -55,5 +55,5 @@ Although originally built for **Windows**, bringing IBExpert to **Linux** is str
 ---
 
 ### ▶ Guias detalhados / Detailed guides
-1. [IBExpert Installation on Linux Using Bottles  (English)](using_bottles-en.md)
-2. [Instalação do IBExpert Usando o Bottles  (Português)](using_bottles-pt_br.md)
+1. [IBExpert installation on Linux using Bottles  (English)](using_bottles-en.md)
+2. [Instalação do IBExpert no Linux usando o Bottles  (Português)](using_bottles-pt_br.md)
