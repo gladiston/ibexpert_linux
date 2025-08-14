@@ -21,7 +21,7 @@ Em seguida, selecione a garrafa recém-criada `IBExpert-x32`, vá para a seção
 
 > ⚠️ **Importante**: Evite instalar as seguintes dependências, pois podem quebrar sua garrafa:
 > - `mdac28`
-> - outra cópia de `vcredist2008`  
+> - outra cópia de `vcredist2008` como `vcredist2005`, `vcredist2010`,...  
 > 
 > Se quiser testar outras dependências, **faça um backup** da sua garrafa antes.
 
