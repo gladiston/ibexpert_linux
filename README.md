@@ -26,8 +26,8 @@ Embora concebido para **Windows**, trazer o IBExpert para **Linux** é estratég
 2. Uniformização de ambientes (menos context switching entre SOs)
 3. Maior adoção em equipes que operam majoritariamente em Linux
 
-** ▶ Guias detalhados / Detailed guides
-* [Instalação do IBExpert no Linux usando o Bottles  (Português)](using_bottles-pt_br.md)
+▶**Como fazer**  
+[Instalação do IBExpert no Linux usando o Bottles  (Português)](using_bottles-pt_br.md)
 
 ---
 
@@ -55,6 +55,6 @@ Although originally built for **Windows**, bringing IBExpert to **Linux** is str
 2. Environment consistency (less context switching across OSes)
 3. Wider adoption among teams primarily operating on Linux
 
-** Detailed guides
-* [IBExpert installation on Linux using Bottles  (English)](using_bottles-en.md)
+▶**How to**  
+[IBExpert installation on Linux using Bottles  (English)](using_bottles-en.md)
 
