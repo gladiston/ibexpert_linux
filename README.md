@@ -1,15 +1,43 @@
-# IBExpert Installation on Linux
 ## Introdução / Introduction
 
-**Português**  
-O **IBExpert** é uma poderosa IDE (Ambiente de Desenvolvimento Integrado) profissional voltada especialmente para o desenvolvimento e administração de bancos de dados **InterBase** e **Firebird**, oferecendo um conjunto abrangente de ferramentas como editor SQL, depurador, construtor visual de consultas, entre outros ([ibexpert.net](https://www.ibexpert.net/ibe/index.php?n=Doc.IBExpert&utm_source=chatgpt.com)). Embora originalmente concebido para o ambiente Windows, o IBExpert desempenha um papel crucial na garantia da produtividade, eficiência e robustez ao trabalhar com essas plataformas de banco de dados.
+---
 
-Portar o IBExpert para **Linux** traz grande relevância técnica e estratégica: ele permite que desenvolvedores e administradores de banco de dados utilizem um IDE avançado diretamente em ambientes Linux — sistemas amplamente usados em servidores, containerização e desenvolvimento moderno. Além disso, essa portabilidade reduz dependência de máquinas Windows, promove uniformidade nos ambientes de desenvolvimento e operação, e abre caminho para maior adoção do IBExpert em soluções modernas baseadas em Linux.
+### 🇧🇷 Português
+O **IBExpert** é uma IDE profissional voltada ao desenvolvimento e à administração de bancos de dados **InterBase** e **Firebird**. Ele reúne ferramentas essenciais para produtividade e qualidade: editor SQL, depurador de scripts, construtor visual de consultas e gerenciamento avançado de conexões e metadados.
 
-**English**  
-**IBExpert** is a powerful professional IDE (Integrated Development Environment) specifically designed for developing and managing **InterBase** and **Firebird** databases. It provides a comprehensive suite of tools, including an SQL editor, debugger, visual query builder, and more ([ibexpert.net](https://www.ibexpert.net/ibe/index.php?n=Doc.IBExpert&utm_source=chatgpt.com)). Although originally developed for Windows, IBExpert plays a critical role in enhancing productivity, efficiency, and robustness in database workflows.
+Embora concebido para **Windows**, trazer o IBExpert para **Linux** é estratégico: consolida fluxos de trabalho em ambientes amplamente usados em servidores e containers, reduz a dependência de estações Windows e padroniza desenvolvimento e operação em uma mesma plataforma.
 
-Porting IBExpert to **Linux** is technically and strategically significant: it enables database developers and administrators to access a sophisticated IDE natively on Linux environments — platforms widely used in modern server deployments, containerization, and development workflows. This portability reduces reliance on Windows systems, fosters consistency across development and operational environments, and paves the way for broader IBExpert adoption in contemporary Linux-based solutions.
+**Recursos principais**
+- Editor SQL com realce e formatação
+- Depurador de scripts
+- Construtor visual de consultas
+- Administração de metadados e conexões
 
+**Por que trazer para Linux**
+1. Aderência a ambientes modernos (servidores, containers, DevOps)
+2. Uniformização de ambientes (menos context switching entre SOs)
+3. Maior adoção em equipes que operam majoritariamente em Linux
+
+---
+
+### 🇬🇧 English
+**IBExpert** is a professional IDE for developing and administering **InterBase** and **Firebird** databases. It brings together key productivity features: a powerful SQL editor, script debugger, visual query builder, and advanced connection/metadata management.
+
+Although originally built for **Windows**, bringing IBExpert to **Linux** is strategically valuable: it aligns with server- and container-heavy workflows, reduces reliance on Windows workstations, and standardizes development and operations on a single platform.
+
+**Key features**
+- SQL editor with highlighting and formatting
+- Script debugger
+- Visual query builder
+- Metadata and connection administration
+
+**Why Linux**
+1. Alignment with modern environments (servers, containers, DevOps)
+2. Environment consistency (less context switching across OSes)
+3. Wider adoption among teams primarily operating on Linux
+
+---
+
+### ▶ Guias detalhados / Detailed guides
 1. [IBExpert Installation on Linux Using Bottles  (English)](using_bottles-en.md)
 2. [Instalação do IBExpert Usando o Bottles  (Português)](using_bottles-pt_br.md)
