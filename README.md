@@ -13,6 +13,14 @@ Embora concebido para **Windows**, trazer o IBExpert para **Linux** é estratég
 - Construtor visual de consultas
 - Administração de metadados e conexões
 
+**Recursos extras da versão comercial**
+- Depuração de PSQL
+- Exportação de dados com BLOBs para scripts SQL
+- Linguagem de script PSQL proprietária com suporte estendido de linguagem
+- Ferramenta de Trace
+- Editor visual de campos BLOB
+- Entre outros
+
 **Por que trazer para Linux**
 1. Aderência a ambientes modernos (servidores, containers, DevOps)
 2. Uniformização de ambientes (menos context switching entre SOs)
@@ -31,6 +39,14 @@ Although originally built for **Windows**, bringing IBExpert to **Linux** is str
 - Visual query builder
 - Metadata and connection administration
 
+**Extra features in the commercial version**
+- PSQL debugging
+- Export data with BLOBs into SQL scripts
+- Proprietary PSQL scripting language with extended language support
+- Trace tool
+- Visual BLOB field editor
+- And more
+
 **Why Linux**
 1. Alignment with modern environments (servers, containers, DevOps)
 2. Environment consistency (less context switching across OSes)
@@ -39,5 +55,5 @@ Although originally built for **Windows**, bringing IBExpert to **Linux** is str
 ---
 
 ### ▶ Guias detalhados / Detailed guides
-1. [IBExpert installation on Linux using Bottles  (English)](using_bottles-en.md)
-2. [Instalação do IBExpert no Linux usando o Bottles  (Português)](using_bottles-pt_br.md)
+1. [IBExpert Installation on Linux Using Bottles  (English)](using_bottles-en.md)
+2. [Instalação do IBExpert Usando o Bottles  (Português)](using_bottles-pt_br.md)
