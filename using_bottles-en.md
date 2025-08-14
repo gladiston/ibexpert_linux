@@ -3,8 +3,6 @@
 ## **INSTALLATION**
 Install the **Bottles** software on Linux using any repository (Flathub is recommended).
 
-Open the hamburger menu → **Preferences**, and set the **Bottle Directory** to something like `~/bottle`.
-
 ---
 
 ## **CREATE A NEW BOTTLE**
@@ -28,7 +26,7 @@ Then select the newly created `IBExpert-x32` bottle, go to the **Dependencies** 
 > 
 > If you want to test other dependencies, **make a backup** of your bottle first.
 
-Your bottle will be located at: `~/bottle/IBExpert-x32`.
+Your bottle will be located at: `~/.var/app/com.usebottles.bottles/data/bottles/bottles/IBExpert-x32`.
 
 You can now close the bottle.
 
