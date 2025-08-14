@@ -22,7 +22,7 @@ Then select the newly created `IBExpert-x32` bottle, go to the **Dependencies** 
 
 > ⚠️ **Important**: Avoid installing the following dependencies, as they can break your bottle:
 > - `mdac28`
-> - another copy of `vcredist2008`  
+> - another copy of `vcredist2008` like `vcredist2005`, `vcredist2010`,...   
 > 
 > If you want to test other dependencies, **make a backup** of your bottle first.
 
