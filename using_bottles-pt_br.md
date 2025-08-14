@@ -2,9 +2,6 @@
 
 ## **INSTALAÇÃO**
 Instale o software **Bottles** no Linux usando qualquer repositório (o Flathub é recomendado).
-
-Abra o menu hambúrguer → **Preferências** e defina o **Diretório de Garrafas** para algo como `~/bottle`.
-
 ---
 
 ## **CRIAR UMA NOVA GARRAFA**
@@ -28,7 +25,7 @@ Em seguida, selecione a garrafa recém-criada `IBExpert-x32`, vá para a seção
 > 
 > Se quiser testar outras dependências, **faça um backup** da sua garrafa antes.
 
-Sua garrafa estará localizada em: `~/bottle/IBExpert-x32`.
+Sua garrafa estará localizada em: `~/.var/app/com.usebottles.bottles/data/bottles/bottles/IBExpert-x32`.
 
 Você já pode fechar a garrafa.
 
